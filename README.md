@@ -7,4 +7,4 @@ We started by precalculating the parameters of the problem, specially the ones r
 
 ## Screenshots from the projects - Results
 
-
+The following pictures shows the results of the simulation
